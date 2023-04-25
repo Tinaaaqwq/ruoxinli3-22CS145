@@ -2,6 +2,7 @@
 ## Data
 Financial Phrase Bank: /data/FinancialPhrasebank <br>
 Lable-free Tweets: /data/tweets/train.txt & /data/tweets/test.txt <br>
+
 ## Model Weights
 The model weights can be downloaded from here: https://drive.google.com/drive/folders/1hRckF8VyNBaKlD_nIYg3Kpd2gajsc8M4?usp=sharing
 
